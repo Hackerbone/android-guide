@@ -21,6 +21,7 @@ const sidebarLinks = [
       { name: "Example App", path: "/docs/example" },
       { name: "Helpers", path: "/docs/helpers" },
       { name: "Task Manager Example", path: "/docs/task-manager-example" },
+      { name: "Student Details Database", path: "/docs/student_details_db" },
     ],
   },
   {
