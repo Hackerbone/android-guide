@@ -23,6 +23,7 @@ const sidebarLinks = [
       { name: "Task Manager Example", path: "/docs/task-manager-example" },
       { name: "Student Details Database", path: "/docs/student_details_db" },
       { name: "Context Menu Database", path: "/docs/Context_menu_db" },
+      { name: "Popup Menu Database", path: "/docs/popup_menu_db" },
     ],
   },
   {
